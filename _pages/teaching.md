@@ -3,22 +3,35 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their analytical skills and master the tools of data analysis through hands-on experience. I have taught undergraduate courses on political violence and statistical methodology. While at UNC, I taught the graduate statistics lab for Advanced Topics in Political Data Science, where my work was recognized by the Political Science Department's Earle Wallace Award for Graduate Student Teaching. I also served as a teaching assistant for courses in international relations and American politics at UNC, in addition to the ICPSR Summer Program where I was a teaching assistant for a course on Bayesian modeling in the social sciences. You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
+# hahahaha
 
-You can find a selection of my teaching materials, including all of the labs from Advanced Topics in Political Data Science, [here](/teaching-materials).
+## Privacy Policy
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+### Log Files
+
+Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+
+* Internet Protocol addresses (IP)
+* Types of browser
+* Internet Service Provider (ISP)
+* Date and time stamp
+* Referring and exit pages
+* Number of clicks
+
+All of this information is not linked to anything that is personally identifiable.
+
+### Cookies and Web Beacons
+
+When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+
+Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+
+If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+
+#### Google Analytics
+
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
